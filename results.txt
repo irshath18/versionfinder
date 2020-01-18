@@ -1,0 +1,6 @@
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1" />
+ Found in .\ActiveXRework\src\ActiveXReplacement\SignatureHost\App.config
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1" />
+ Found in .\ActiveXRework\src\ActiveXReplacement\SmokeTestApi\App.config
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+ Found in .\ActiveXRework\src\mvc_api\TestLog4net\App.config
